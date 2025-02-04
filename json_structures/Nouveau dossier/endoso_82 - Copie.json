@@ -1,0 +1,104 @@
+{
+  "endoso_std_id": "temp",
+  "endoso_details": {
+    "name": "PREEXISTENCIA",
+    "parameters": {
+      "column_parameters": "",
+      "row_parameters": [
+        {
+          "row_parameter_name": "suma asegurada",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "digits/currency (pesos, UMAM)/ de la poliza"
+        },
+        {
+          "row_parameter_name": "deducible",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "digits / de la poliza"
+        },
+        {
+          "row_parameter_name": "coaseguro",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "digits"
+        },
+        {
+          "row_parameter_name": "tope de coaseguro",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "digits / sin tope"
+        },
+        {
+          "row_parameter_name": "periodo espera",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "digits"
+        },
+        {
+          "row_parameter_name": "reconocimiento de antigüedad",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "aplica/no aplica"
+        },
+        {
+          "row_parameter_name": "requisitos",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "text"
+        },
+        {
+          "row_parameter_name": "gastos cubiertos",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "text"
+        },
+        {
+          "row_parameter_name": "gastos no cubiertos",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "text"
+        },
+        {
+          "row_parameter_name": "aplicación de deducible y/o coaseguro",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "Y/N"
+        },
+        {
+          "row_parameter_name": "condiciones generales",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "string",
+          "value": "Para los demás términos y condiciones, aplicarán las Condiciones Generales vigentes del producto contratado. Este Endoso forma parte del Contrato de Seguro"
+        },
+        {
+          "row_parameter_name": "elegibilidad",
+          "editable": true,
+          "active": true,
+          "type": "exception",
+          "value_type": "titular / conyuge / hijos"
+        },
+        {
+          "row_parameter_name": "territorio de cobertura",
+          "editable": true,
+          "active": true,
+          "type": "exception",
+          "value_type": "nacional / extranjero / inetrnacional"
+        }
+      ],
+      "legal": ""
+    }
+  }
+}

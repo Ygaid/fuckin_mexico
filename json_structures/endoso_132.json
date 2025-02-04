@@ -1,0 +1,56 @@
+{
+  "endoso_std_id": "temp",
+  "endoso_details": {
+    "name": "Dependientes Economicos y Edades de Aceptacion",
+    "parameters": {
+      "column_parameters": "",
+      "row_parameters": [
+        {
+          "row_parameter_name": "Descripcion",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "text"
+        },
+        {
+          "row_parameter_name": "Elegibilidad",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "titular/conyuge/hijos"
+        },
+        {
+          "row_parameter_name": "Hijos menores a",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "digits",
+          "unit": "anos"
+        },
+        {
+          "row_parameter_name": "Edad de aceptación",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "digits"
+        },
+        {
+          "row_parameter_name": "Condiciones Generales",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "string",
+          "value": "Para los demás términos y condiciones, aplicarán las Condiciones Generales vigentes del producto contratado. Este Endoso forma parte del Contrato de Seguro"
+        },
+        {
+          "row_parameter_name": "Gastos cubiertos",
+          "editable": true,
+          "active": true,
+          "type": "exception",
+          "value_type": "text"
+        }
+      ],
+      "legal": ""
+    }
+  }
+}

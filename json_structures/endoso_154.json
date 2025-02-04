@@ -1,0 +1,19 @@
+{
+  "endoso_std_id": "temp",
+  "endoso_details": {
+    "name": "Disclosure of commission",
+    "parameters": {
+      "column_parameters": "",
+      "row_parameters": [
+        {
+          "row_parameter_name": "Descripcion",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "text"
+        }
+      ],
+      "legal": ""
+    }
+  }
+}

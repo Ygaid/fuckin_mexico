@@ -1,0 +1,13 @@
+TIPO_ENDOSO:endoso.global_information.type AND endoso_std.global_information.type
+
+POLIZA:endoso.contract_no
+
+DRIPCION:endoso.endoso_details.title AND endoso_std.endoso_details.title
+
+CONT:endoso.endoso_details.description AND endoso_std.endoso_details.description
+
+FEC_INI:endoso.global_information.effective_date AND endoso_std.global_information.effective_date
+
+FEC_VEN:endoso.global_information.expiration_date AND endoso_std.global_information.expiration_date
+
+NOM_SUBG:endoso.subgrupo

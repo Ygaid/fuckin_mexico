@@ -1,0 +1,27 @@
+{
+  "endoso_std_id": "055",
+  "endoso_details": {
+    "name": "vision",
+    "parameters": {
+      "column_parameters": "",
+      "row_parameters": [
+        {
+          "row_parameter_name": "Descripcion",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "text"
+        },
+        {
+          "row_parameter_name": "Condiciones Generales",
+          "editable": true,
+          "active": true,
+          "type": "std",
+          "value_type": "string",
+          "value": "Para los demás términos y condiciones, aplicarán las Condiciones Generales vigentes del producto contratado. Este Endoso forma parte del Contrato de Seguro"
+        }
+      ],
+      "legal": ""
+    }
+  }
+}
